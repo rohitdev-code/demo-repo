@@ -1,4 +1,4 @@
 # demo-repo
 this is my first repository.
 <br>
-author = rohit bhandari.
+author = rohit bhandari (pabau)
